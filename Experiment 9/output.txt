@@ -1,0 +1,7 @@
+Enter Three Address Code statements (Ctrl+D to stop):
+// Constant Folding: 2 + 4 -> 6
+a = 6
+// Algebraic Simplification: x * 1 -> x
+b = d
+// Strength Reduction: x * 2 -> x + x
+c = s + s
