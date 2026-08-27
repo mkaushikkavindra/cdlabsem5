@@ -1,0 +1,17 @@
+Preprocessor Directive : #include
+Header File : <stdio.h>
+Keyword : void
+Identifier : main
+Delimiter : (
+Delimiter : )
+Delimiter : {
+Keyword : int
+Identifier : x
+Delimiter : ;
+Identifier : x
+Operator : =
+Number : 10
+Delimiter : ;
+Delimiter : }
+
+End of file
