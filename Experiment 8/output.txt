@@ -1,0 +1,5 @@
+Enter declarations and expressions:int a;
+int b;
+int c;
+a=b*c;
+No type mismatch in expression: a = ...
