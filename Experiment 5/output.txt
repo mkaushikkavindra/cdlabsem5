@@ -1,0 +1,2 @@
+Enter a C control structure syntax:switch(x){case 1:{} default:{}}
+Valid control structure syntax.
